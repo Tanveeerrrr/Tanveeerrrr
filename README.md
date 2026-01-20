@@ -1,4 +1,4 @@
-## Hi there 👋
+##
 
 # Hi 👋 I'm Tanveer Khurshid Shaikh
 
@@ -24,28 +24,18 @@ I believe in **learning by doing**, and I’m actively working on projects that 
 
 - **Web Development:** HTML, CSS, JavaScript  
 - **Design:** Figma, Canva  
-- **AI & Tech:** Generative AI, AI tools & fundamentals  
-- **Tools:** Git, GitHub  
+- **AI & Tech:** Generative AI, AI tools & fundamentals    
 - **Other:** Problem solving, continuous learning  
 
----
+--- 
 
-## 📂 Projects
-
-- 🌐 Personal Portfolio Website  
-- ☁️ Weather Application  
-- 🔗 QR Code Generator  
-- 🔊 Text-to-Speech Converter  
-- 🛒 Shopping Website UI Design  
-
-*(More projects coming soon 🚀)*
+*( projects coming soon 🚀)*
 
 ---
 
 ## 📜 Certifications
 
-- MS-CIT  
-- HTML Certification  
+- MS-CIT   
 - **Oracle Certified: Generative AI Professional**  
 - **AI Passport – EY & Microsoft**
 
@@ -61,8 +51,7 @@ I believe in **learning by doing**, and I’m actively working on projects that 
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: your-link  
+- 📧 Email: tanvee4r2007@gmail.com  
 - 🌐 Portfolio: coming soon  
 
 ---
